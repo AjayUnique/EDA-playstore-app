@@ -1,2 +1,2 @@
 # PlayStore App Data Review Analysis
-Analyzing data of playstore app 
+EDA on PlayStore App Data  
